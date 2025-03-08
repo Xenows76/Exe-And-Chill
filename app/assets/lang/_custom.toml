@@ -4,10 +4,10 @@
 title = "Exe And Chill Launcher"
 
 [ejs.landing]
-mediaGitHubURL = "https://github.com/Xenows76/Exe-And-Chill"
-mediaTwitterURL = "#"
-mediaInstagramURL = "#"
-mediaYouTubeURL = "#"
+mediaGitHubURL = "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+mediaTwitterURL = "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+mediaInstagramURL = "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+mediaYouTubeURL = "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
 mediaDiscordURL = "https://discord.com/invite/dFZDtjrpwE"
 
 [ejs.settings]
